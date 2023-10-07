@@ -10,10 +10,10 @@ locale                   : "en-US"
 title                    : "Chenglong Wang"
 title_separator          : "-"
 name                     : &name "Chenglong Wang (王成龙)"
-description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+description              : &description "Maintain the humility you should have, and persist in the confidence you had at the beginning"
+url                      : https://clwang615.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "CLWang615/CLWang615.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -81,14 +81,13 @@ analytics:
 # Site Author
 author:
   name             : "Your Sidebar Name"
-  avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  avatar           : "photo.png"
+  bio              : "Learning never exhausts the mind"
+  location         : "Chongqing, China"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  googlescholar    : "https://scholar.google.com/citations?user=FmeaOUEAAAAJ&hl=zh-CN"
+  email            : "upesawcl163.com"
+  researchgate     :  # example: "https://www.researchgate.net/profile/Chenglong-Wang-30"
   uri              :
   bitbucket        :
   codepen          :
@@ -96,7 +95,6 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
   google_plus      :
   keybase          :
   instagram        :
