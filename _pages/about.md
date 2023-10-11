@@ -25,3 +25,6 @@ Honor
 [2] Jiangsu Province outstanding graduate award in the discipline of Construction Engineering and Management, Jiangsu Civil Engineering & Architectural Society，2023
 
 [3] Jiangsu Province outstanding student, Jiangsu Provincial Department of Education，2022
+
+
+And you can find my resume here: [resume.pdf]()
