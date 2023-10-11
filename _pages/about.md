@@ -27,4 +27,4 @@ Honor
 [3] Jiangsu Province outstanding student, Jiangsu Provincial Department of Education，2022
 
 
-And you can find my resume here: [resume.pdf]()
+And you can find my resume here: [resume.pdf]("../assets/photo.png")
