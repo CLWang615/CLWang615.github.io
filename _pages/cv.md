@@ -11,49 +11,26 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+*Master of Logistics engineering and management                           Sep,2023 – present
+Chongqing University, Chongqing, China
 
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+*Bachelor of Engineering Management                                       Sep,2019 – Jun,2023
+Jiangsu University, Zhenjiang, Jiangsu Province, China
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* ArcGIS
+* Origin
+* Stata
+* R
 
 Publications
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+[1] Wang, C., Sheng, Y., Wang, J., Wang, Y., Wang, P., & Huang, L. (2022). Air pollution and human health: Investigating the moderating effect of the built environment. Remote Sensing, 14(15), 3703.
+
+[2] Ding, Y., Wang, C., Wang, J., Wang, P., & Huang, L. (2023). Revealing the impact of built environment, air pollution and housing price on health inequality: an empirical analysis of Nanjing, China. Frontiers in Public Health, 11.
+
+[3] Wang, L., Liu, J., Wang, C., & Wang, P. (2023). Proportional optimization forecasting analysis of photovoltaic and coal-fired power in 2050, China: the economic and environmental perspectives. Energy Sources, Part A: Recovery, Utilization, and Environmental Effects, 45(1), 2044-2057.
+
+
