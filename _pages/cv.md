@@ -11,12 +11,9 @@ redirect_from:
 
 Education
 ======
-*Master of Logistics engineering and management                           Sep,2023 – present
-Chongqing University, Chongqing, China
+* Chongqing University, Sep,2023 – present
 
-*Bachelor of Engineering Management                                       Sep,2019 – Jun,2023
-Jiangsu University, Zhenjiang, Jiangsu Province, China
-
+* Jiangsu University, Sep,2019 – Jun,2023
   
 Skills
 ======
